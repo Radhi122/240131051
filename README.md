@@ -7,6 +7,7 @@ Pada tahap ini isinya baru kerangka proyek; belum ada kode aplikasi.
 | Nama | NIM | Akun GitHub | Peran |
 |---|---|---|---|
 | M. Radhi Billah | 240131051 | @Radhi122 | Ketua tim |
+| M. Hidayatullah | 240131050 | @Baterai | Anggota tim |
 ## Cara menjalankan
 Akan diisi pada Pertemuan 9.
 ## Aturan kerja tim
