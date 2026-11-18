@@ -8,6 +8,7 @@ Pada tahap ini isinya baru kerangka proyek; belum ada kode aplikasi.
 |---|---|---|---|
 | M. Radhi Billah | 240131051 | @Radhi122 | Ketua tim |
 | M. Hidayatullah | 240131050 | @Baterai | Anggota tim |
+| M. Ris Fadilah |  240131077 | @mrisfadilah-debug | Anggota tim |
 ## Cara menjalankan
 Akan diisi pada Pertemuan 9.
 ## Aturan kerja tim
